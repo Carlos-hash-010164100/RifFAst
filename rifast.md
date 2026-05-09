@@ -14,7 +14,7 @@ No es un sorteo formal, no es un servicio, no es una apuesta y no tiene relació
 
 \## 🔗 Enlace a la página
 
-👉 https://TU\_USUARIO.github.io/rifa-tequila-jarana/
+👉 https://carlos-hash-010164100.github.io/RifFAst/
 
 
 
